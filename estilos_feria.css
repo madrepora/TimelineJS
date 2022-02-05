@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+}
+    
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 40px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+  
+p {
+    font-family:'Vollkorn', serif;
+    font-size: 16px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    line-height: 23px;
+    color: rgb(34, 32, 32);
+}    
+
+.juxtapose_margen {
+    padding-top:10px;
+    padding: 0px;
+    padding-bottom: 5px;
+}
+
+footer {
+   text-align:center;
+   margin-top: 25px;
+   padding-top: 35px;
+   background-image: linear-gradient(rgb(22, 5, 44), rgb(70, 16, 114), rgb(124, 136, 175));
+}
+
+.texto_footer {
+    font-family:'Courgette', cursive;
+    font-size: 15px;
+    color: rgb(238, 227, 236);
+    padding-top: 10px;
+    padding-bottom:20px;
+}
+
+    
